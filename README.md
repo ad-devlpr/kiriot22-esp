@@ -1,2 +1,4 @@
 # kiriot22-esp
 Kiriot's ESP Library but better
+
+CURRENTLY ITS THE SAME, IT'S BEING REWRITTEN AND MANY ISSUES ARE BEING FIXED.
